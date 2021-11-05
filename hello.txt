@@ -11,3 +11,4 @@ hello zhijia hello git
 hello zhijia hello git
 hello zhijia hello git
 hello zhijia hello git mester test
+hello zhijia hello git hot-fix test
